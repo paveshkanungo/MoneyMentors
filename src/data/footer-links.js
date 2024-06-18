@@ -1,0 +1,47 @@
+export const FooterLink2 = [
+  {
+    title: "Financial Topics",
+    links: [
+      { title: "Accounting", link: "/accounting" },
+      { title: "Financial Markets", link: "/financial-markets" },
+      { title: "Investment Strategies", link: "/investment-strategies" },
+      { title: "Personal Finance", link: "/personal-finance" },
+      { title: "Risk Management", link: "/risk-management" },
+      { title: "Financial Modeling", link: "/financial-modeling" },
+      { title: "Tax Planning", link: "/tax-planning" },
+      { title: "Economics", link: "/economics" },
+      { title: "FinTech", link: "/fintech" },
+      { title: "Retirement Planning", link: "/retirement-planning" },
+    ],
+  },
+  {
+    title: "Investment Products",
+    links: [
+      { title: "Stocks", link: "/stocks" },
+      { title: "Bonds", link: "/bonds" },
+      { title: "Mutual Funds", link: "/mutual-funds" },
+      { title: "ETFs", link: "/etfs" },
+      { title: "Options", link: "/options" },
+      { title: "Derivatives", link: "/derivatives" },
+      { title: "Commodities", link: "/commodities" },
+      { title: "Currencies", link: "/currencies" },
+      { title: "Cryptocurrency", link: "/cryptocurrency" },
+      { title: "Alternative Investments", link: "/alternative-investments" },
+    ],
+  },
+  {
+    title: "Career Paths",
+    links: [
+      { title: "Financial Analyst", link: "/financial-analyst" },
+      { title: "Investment Banker", link: "/investment-banker" },
+      { title: "Portfolio Manager", link: "/portfolio-manager" },
+      { title: "Financial Advisor", link: "/financial-advisor" },
+      { title: "Risk Analyst", link: "/risk-analyst" },
+      { title: "FinTech Developer", link: "/fintech-developer" },
+      { title: "Economics Researcher", link: "/economics-researcher" },
+      { title: "Commercial Banking", link: "/commercial-banking" },
+      { title: "Insurance", link: "/insurance" },
+      { title: "Real Estate Finance", link: "/real-estate-finance" },
+    ],
+  },
+];
