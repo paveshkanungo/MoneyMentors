@@ -7,9 +7,9 @@ import CourseCard from './CourseCard';
 const tabsName = [
     "Free",
     "New to Finance",
-    "Most popular",
-    "Skills paths",
-    "Career paths",
+    "Most Popular",
+    "Career Paths",
+    "Data Analysis & Fintech"
 ];
 
 const ExploreMore = () => {
