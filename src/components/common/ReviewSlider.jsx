@@ -66,7 +66,7 @@ function ReviewSlider() {
                     />
                     <div className="flex flex-col">
                       <h1 className="font-semibold text-richblack-25">{`${review?.user?.firstName} ${review?.user?.lastName}`}</h1>
-                      <h2 className="text-[12px] font-medium text-richblack-250">
+                      <h2 className="text-[12px] font-medium text-richblack-500">
                         {review?.course?.courseName}
                       </h2>
                     </div>
