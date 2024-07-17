@@ -25,7 +25,7 @@ app.use(cookieParser());
 app.use(
     cors({
         // origin: "http://localhost:3000",
-        origin: "https://money-mentors-frontend.vercel.app",
+        origin: "https://money-mentors.vercel.app",
         credentials: true,
     })
 )
