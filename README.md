@@ -146,13 +146,13 @@ Testing includes:
 
 ## 🖼️ Screenshots
 
-> [!HomePageImage1](./assets/SS1.png)
-> [!HomePageImage2](./assets/SS2.png)
-> [!HomePageImage3](./assets/SS3.png)
-> [!HomePageImage4](./assets/SS4.png)
-> [!HomePageImage5](./assets/SS5.png)
-> [!LoginImage6](./assets/SS6.png)
-> [!SignUpImage7](./assets/SS7.png)
+> ![HomePageImage1](./assets/SS1.png)
+> ![HomePageImage2](./assets/SS2.png)
+> ![HomePageImage3](./assets/SS3.png)
+> ![HomePageImage4](./assets/SS4.png)
+> ![HomePageImage5](./assets/SS5.png)
+> ![LoginImage6](./assets/SS6.png)
+> ![SignUpImage7](./assets/SS7.png)
 
 
 ---
