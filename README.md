@@ -39,7 +39,7 @@ MoneyMentors follows a **client-server** architecture:
 3. **Database:** MongoDB (NoSQL flexible storage)
 
 ### Architecture Diagram:
-> ![Architecture Diagram](./assets/architecture-diagram.png)
+> ![Architecture Diagram](./assets/architecture_diagram.png)
 
 ---
 
@@ -87,6 +87,9 @@ MoneyMentors follows a **client-server** architecture:
 - **Student**
 - **Instructor**
 - **Course**
+
+### Schema:
+> ![database_schema](./assets/database_schema.png)
 
 ---
 
