@@ -157,7 +157,6 @@ Testing includes:
 > ![LoginImage6](./assets/SS6.png)
 > ![SignUpImage7](./assets/SS7.png)
 
-
 ---
 
 ## 🏁 Run Locally
