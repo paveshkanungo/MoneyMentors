@@ -25,11 +25,10 @@ async function sendVerificationEmail(email, otp){
         // define the mail options
         // send email
         const mailResponse = await mailSender(email, "Verification Email from MoneyMentors", emailTemplate(otp));
-        console.log("Email Sent Successfully: ", mailResponse.response);
+        console.log("Email Sent Successfully: ", mailResponse);
     }
     catch(error){
         console.log("error occured while sending email: ", error);
-        throw error;
     }
 }
 
